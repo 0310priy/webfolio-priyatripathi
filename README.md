@@ -1,2 +1,1 @@
-# webfolio-priyatripathi
-Portfolio
+https://vinodjangid07.github.io/Portfolio/
