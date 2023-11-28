@@ -1,1 +1,1 @@
-https://webfolio-priyatripathi
+https://webfolio-priyatripathi/github.io
